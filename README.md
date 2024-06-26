@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shreyasdomde1@gmail.com**
 
-- 📄 Know about my experiences [https://shreyas1018.github.io/Portfolio/assets/Resume.pdf](https://shreyas1018.github.io/Portfolio/assets/Resume.pdf)
+- 📄 Get my resume:  [https://shreyas1018.github.io/Portfolio/assets/Resume.pdf](https://shreyas1018.github.io/Portfolio/assets/Resume.pdf)
 
 - ⚡ Remember **It's never a bug, but a feature😉**
 
