@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MongoDB, PySpark, AWS**
 
-- 👨‍💻 All of my projects are available at [https://shreyas1018.github.io/Portfolio/](https://shreyas1018.github.io/Portfolio/)
+- 👨‍💻 View my Portfolio [here](https://shreyas1018.github.io/Portfolio/)
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **shreyasdomde1@gmail.com**
+- 📫 Reach me at **shreyasdomde1@gmail.com**
 
-- 📄 Get my resume:  [https://shreyas1018.github.io/Portfolio/assets/Resume.pdf](https://shreyas1018.github.io/Portfolio/assets/Resume.pdf)
+- 📄 To view my resume, click [here](https://shreyas1018.github.io/Portfolio/assets/Resume.pdf)
 
 - ⚡ Remember **It's never a bug, but a feature😉**
 
