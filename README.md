@@ -1,9 +1,8 @@
-<h1 align="center">Hey there⭐, I'm Shreyas Domde</h1>
-<h3 align="center">Passionate About exploring intricate data patterns</h3>
-
+[![MasterHead](https://github.com/Shreyas1018/Portfolio/blob/main/assets/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://rishavchanda.io)
+<h1 align="center">Hey there <img alt="Coding" width="30" src="https://github.com/Shreyas1018/Portfolio/blob/main/assets/img/waving-pikachu.gif">, I'm Shreyas Domde</h1>
+<h3 align="center">Passionate about exploring intricate data patterns</h3>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas1018&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas1018" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas1018" alt="shreyas1018" /></a> </p>
 
 - 🌱 I’m currently learning **MongoDB, PySpark, AWS**
 
@@ -30,6 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas1018&show_icons=true&locale=en&layout=compact" alt="shreyas1018" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas1018&show_icons=true&locale=en" alt="shreyas1018" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas1018&" alt="shreyas1018" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas1018" alt="shreyas1018" /></a> </p>
