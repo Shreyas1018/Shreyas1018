@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Shreyas1018/Portfolio/blob/main/assets/img/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Shreyas1018/Portfolio/blob/main/assets/img/Banner_Cropped.png)](https://shreyas1018.github.io/Portfolio/)
 <h1 align="center">Hey there <img alt="Coding" width="30" src="https://github.com/Shreyas1018/Portfolio/blob/main/assets/img/waving-pikachu.gif">, I'm Shreyas Domde</h1>
 <h3 align="center">Passionate about exploring intricate data patterns</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif">
